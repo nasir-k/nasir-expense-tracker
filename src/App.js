@@ -5,7 +5,7 @@ import ExpenseFilter from "./components/ExpenseFilter";
 
 const expenseData = [
   { id: 1, title: "Asus Laptop", amount: 70000, date: new Date(2019, 5, 13) },
-  { id: 2, title: "earPods", amount: 10000, date: new Date(2020, 8, 21) },
+  { id: 2, title: "EarPods", amount: 10000, date: new Date(2020, 8, 21) },
   { id: 3, title: "Iphone 13", amount: 100000, date: new Date(2021, 4, 20) },
 ];
 
